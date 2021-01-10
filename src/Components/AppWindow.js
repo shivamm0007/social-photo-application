@@ -15,9 +15,7 @@ function AppWindow() {
         let term = e.target.value;
         setsearchTerm(term);
     }
-
-
-    return (
+return (
         <div className = 'AppWindow'>
            <div className = 'heading'><h3>Imaginary</h3></div>
             <div className = 'nav-options'>
