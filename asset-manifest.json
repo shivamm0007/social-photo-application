@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/social-photo-application/static/css/main.e4e426a5.chunk.css",
+    "main.css": "/social-photo-application/static/css/main.820bf5b5.chunk.css",
     "main.js": "/social-photo-application/static/js/main.e29fa3af.chunk.js",
     "main.js.map": "/social-photo-application/static/js/main.e29fa3af.chunk.js.map",
     "runtime-main.js": "/social-photo-application/static/js/runtime-main.065d109d.js",
@@ -10,13 +10,13 @@
     "static/js/3.22537dbf.chunk.js": "/social-photo-application/static/js/3.22537dbf.chunk.js",
     "static/js/3.22537dbf.chunk.js.map": "/social-photo-application/static/js/3.22537dbf.chunk.js.map",
     "index.html": "/social-photo-application/index.html",
-    "static/css/main.e4e426a5.chunk.css.map": "/social-photo-application/static/css/main.e4e426a5.chunk.css.map",
+    "static/css/main.820bf5b5.chunk.css.map": "/social-photo-application/static/css/main.820bf5b5.chunk.css.map",
     "static/js/2.5dd487b8.chunk.js.LICENSE.txt": "/social-photo-application/static/js/2.5dd487b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.065d109d.js",
     "static/js/2.5dd487b8.chunk.js",
-    "static/css/main.e4e426a5.chunk.css",
+    "static/css/main.820bf5b5.chunk.css",
     "static/js/main.e29fa3af.chunk.js"
   ]
 }
